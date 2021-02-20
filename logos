@@ -1,87 +1,139 @@
-[
-  {
-    "category_id": 1,
-    "category_name": "Categori1",
-    "list_logo": [
-      {
-        "image_id": 1,
-        "category_id": 1,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art1.png",
-        "image_status": true
-      },
-      {
-        "image_id": 2,
-        "category_id": 1,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art2.png",
-        "image_status": true
-      },
-      {
-        "image_id": 3,
-        "category_id": 1,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art3.png",
-        "image_status": true
-      },
-      {
-        "image_id": 4,
-        "category_id": 1,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art4.png",
-        "image_status": true
-      },
-      {
-        "image_id": 5,
-        "category_id": 1,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art5.png",
-        "image_status": true
-      }
-,
-      {
-        "image_id": 6,
-        "category_id": 1,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art8.png",
-        "image_status": true
-      }
-    ]
-  },
-  {
-    "category_id": 2,
-    "category_name": "Categori2",
-    "list_logo": [
-      {
-        "image_id": 7,
-        "category_id": 2,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art5.png",
-        "image_status": true
-      },
-      {
-        "image_id": 8,
-        "category_id": 2,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art6.png",
-        "image_status": true
-      },
-      {
-        "image_id": 9,
-        "category_id": 2,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art7.png",
-        "image_status": true
-      },
-      {
-        "image_id": 10,
-        "category_id": 2,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art8.png",
-        "image_status": true
-      },
-      {
-        "image_id": 11,
-        "category_id": 2,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art9.png",
-        "image_status": true
-      },
-      {
-        "image_id": 12,
-        "category_id": 2,
-        "image_link": "https://solonub.000webhostapp.com/logo_icon_art10.png",
-        "image_status": true
-      }
-    ]
-  }
-]
+{
+  "status": true,
+  "message": "success get data",
+  "error": [],
+  "data": [
+    {
+      "category_id": 1,
+      "category_name": "Categori1",
+      "list_logo": [
+        {
+          "image_id": 1,
+          "category_id": 1,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art1.png",
+          "image_status": true
+        },
+        {
+          "image_id": 2,
+          "category_id": 1,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art2.png",
+          "image_status": true
+        },
+        {
+          "image_id": 3,
+          "category_id": 1,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art3.png",
+          "image_status": true
+        },
+        {
+          "image_id": 4,
+          "category_id": 1,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art4.png",
+          "image_status": true
+        },
+        {
+          "image_id": 5,
+          "category_id": 1,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art5.png",
+          "image_status": true
+        },
+        {
+          "image_id": 6,
+          "category_id": 1,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art6.png",
+          "image_status": true
+        },
+        {
+          "image_id": 7,
+          "category_id": 1,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art7.png",
+          "image_status": true
+        },
+        {
+          "image_id": 8,
+          "category_id": 1,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art8.png",
+          "image_status": true
+        },
+        {
+          "image_id": 9,
+          "category_id": 1,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art9.png",
+          "image_status": true
+        },
+        {
+          "image_id": 10,
+          "category_id": 1,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art10.png",
+          "image_status": true
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category_name": "Categori2",
+      "list_logo": [
+        {
+          "image_id": 11,
+          "category_id": 2,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art11.png",
+          "image_status": true
+        },
+        {
+          "image_id": 12,
+          "category_id": 2,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art12.png",
+          "image_status": true
+        },
+        {
+          "image_id": 13,
+          "category_id": 2,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art13.png",
+          "image_status": true
+        },
+        {
+          "image_id": 14,
+          "category_id": 2,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art14.png",
+          "image_status": true
+        },
+        {
+          "image_id": 15,
+          "category_id": 2,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art15.png",
+          "image_status": true
+        },
+        {
+          "image_id": 16,
+          "category_id": 2,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art16.png",
+          "image_status": true
+        },
+        {
+          "image_id": 17,
+          "category_id": 2,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art17.png",
+          "image_status": true
+        },
+        {
+          "image_id": 18,
+          "category_id": 2,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art18.png",
+          "image_status": true
+        },
+        {
+          "image_id": 19,
+          "category_id": 2,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art19.png",
+          "image_status": true
+        },
+        {
+          "image_id": 20,
+          "category_id": 2,
+          "image_link": "https://raw.githubusercontent.com/adit97/Hello-Kotlin/master/logo_icon_art20.png",
+          "image_status": true
+        }
+      ]
+    }
+  ]
+}
