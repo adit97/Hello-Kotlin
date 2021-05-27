@@ -1,0 +1,1278 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "girl1",
+      "name": "Young Woman",
+      "category_id": 1,
+      "publisher": "World",
+      "tray_image_file": "tray.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "girl2",
+      "name": "Happy Valentine",
+      "category_id": 1,
+      "publisher": "World",
+      "tray_image_file": "tray.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "girl3",
+      "name": "Cute Cat",
+      "category_id": 1,
+      "publisher": "Mamewmy",
+      "tray_image_file": "tray.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "cat-01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "cat-02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "cat-03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-04.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-05.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-06.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-07.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-08.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-09.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-10.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-11.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-12.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-14.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-15.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-16.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-17.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-18.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-19.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-20.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-21.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-22.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-23.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "cat-24.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "cat1",
+      "name": "Delivery Boy",
+      "category_id": 2,
+      "publisher": "Bu Jue",
+      "tray_image_file": "tray.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "cat2",
+      "name": "Girl Chef",
+      "category_id": 2,
+      "publisher": "Bu Jue",
+      "tray_image_file": "tray.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "cat3",
+      "name": "Cute Bear",
+      "category_id": 2,
+      "publisher": "Bu Jue",
+      "tray_image_file": "tray.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "couple1",
+      "name": "Cute Rabbit",
+      "category_id": 3,
+      "publisher": "World",
+      "tray_image_file": "tray.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "couple2",
+      "name": "Girl Student",
+      "category_id": 3,
+      "publisher": "World",
+      "tray_image_file": "tray.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "couple3",
+      "name": "Business Man",
+      "category_id": 3,
+      "publisher": "World",
+      "tray_image_file": "tray.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "rabbit1",
+      "name": "Cute Rabbit 1",
+      "category_id": 4,
+      "publisher": "World",
+      "tray_image_file": "girl1.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "rabbit2",
+      "name": "Cute Rabbit 2",
+      "category_id": 4,
+      "publisher": "World",
+      "tray_image_file": "girl1.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "rabbit3",
+      "name": "Cute Rabbit 3",
+      "category_id": 4,
+      "publisher": "World",
+      "tray_image_file": "girl1.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "bear1",
+      "name": "Cute Bear 1",
+      "category_id": 5,
+      "publisher": "World",
+      "tray_image_file": "girl1.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "bear2",
+      "name": "Cute Bear 2",
+      "category_id": 5,
+      "publisher": "World",
+      "tray_image_file": "girl1.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "bear3",
+      "name": "Cute Bear 3",
+      "category_id": 5,
+      "publisher": "World",
+      "tray_image_file": "girl1.jpg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_SendingLove.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "02_WellDoThisTogether.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "03_Heart.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        }
+      ]
+    }
+  ]
+}

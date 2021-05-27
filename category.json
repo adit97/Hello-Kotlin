@@ -1,0 +1,32 @@
+[
+  {
+    "category_id": 0,
+    "category_name": "All Sticker",
+    "category_image": "all.jpg"
+  },
+  {
+    "category_id": 1,
+    "category_name": "Girl",
+    "category_image": "girl.jpg"
+  },
+  {
+    "category_id": 2,
+    "category_name": "Cat",
+    "category_image": "cat.jpg"
+  },
+  {
+    "category_id": 3,
+    "category_name": "Couple",
+    "category_image": "couple.jpg"
+  },
+  {
+    "category_id": 4,
+    "category_name": "Rabbit",
+    "category_image": "rabbit.jpg"
+  },
+  {
+    "category_id": 5,
+    "category_name": "Bear",
+    "category_image": "bear.jpg"
+  }
+]
